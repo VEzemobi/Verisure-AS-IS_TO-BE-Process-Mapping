@@ -42,3 +42,5 @@ have a clear understanding of the customer complaints
 related to the claims process and processing steps. You
 will review the current process and map out a proposed
 solution.
+
+Tool Used: Draw.io
